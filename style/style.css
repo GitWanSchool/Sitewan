@@ -18,7 +18,7 @@ body {
 }
 
 .navigation {
-    background-color: rebeccapurple;
+    background-color: rebeccapurple; 
     float: right;
     text-transform: uppercase;
 }
