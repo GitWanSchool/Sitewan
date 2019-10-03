@@ -7,18 +7,18 @@ padding: 0;
 
 }
 
-
-
- 
 body {    
     font-family: "Comic Sans MS";    
     background-color: black;
     margin: 0;
     padding: 0;
+    background-image: url("/img/moon.jpg");
+    color: white;
+
 }
 
 .navigation {
-    background-color: teal;
+    background-color: rebeccapurple;
     float: right;
     text-transform: uppercase;
 }
